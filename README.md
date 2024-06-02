@@ -21,8 +21,9 @@ Experienced problem solver equipped with multiple skill set not limiting languag
 
 ## Get in Touch
 - **Location:** Bengaluru
-- **GitHub:** [vi-sh](https://github.com/vi-sh)
-- **LinkedIn:** [Vishwa](https://www.linkedin.com/in/vishwanath-purohit)
+- **[GitHub](https://github.com/vi-sh)**
+- **[LinkedIn](https://www.linkedin.com/in/vishwanath-purohit)**
+- **[Instagram](https://www.instagram.com/vishwanath_purohit/)**
 
 ```python
 
