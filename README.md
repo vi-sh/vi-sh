@@ -33,7 +33,7 @@ def chat_over_coffee():
     print("Or just have a chat over a cup of coffee ☕ (Because who doesn't code better with caffeine?)")
 
 # Pick your potion below and watch the code spell out the fun:
-connect_and_create_magic()  # Avada Ked....! :zap: :laughing:
+connect_and_create_magic()  # Avada Ked....! ⚡ 😂
 
 chat_over_coffee()  # Let's brew up some code over a steamy cup of Coffee! ☕
 
