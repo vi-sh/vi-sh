@@ -7,7 +7,7 @@ Art aesthete :art:
 Experienced problem solver equipped with multiple skill set not limiting language/technology.
 
 ## I think :thought_balloon: I'm good at :fire: :point_down:
-- **Programming Languages:** Python, C#, Android
+- **Programming Languages:** Python, C#
 - **Databases:** PostgreSQL, Neo4j, SQLAlchemy, MySQL, IBM Cloudant
 - **Web Frameworks:** Flask, FastAPI, REST API, Django, HTML5, CSS3, JavaScript, Bootstrap
 - **Testing Frameworks:** Pytest, Selenium, Eggplant, Integration Tests
